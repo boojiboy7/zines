@@ -16,7 +16,7 @@
 */
 
 //---- USER OPTIONS ----//
-const TEMPLATE = 1; // Change this value to set the template
+const TEMPLATE = 7; // Change this value to set the template
 /*  
     Available templates:
     
