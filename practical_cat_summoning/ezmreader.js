@@ -42,7 +42,7 @@ const TEMPLATE = 1; // Change this value to set the template
     8: 64 pages
         Micro
 */
-const BGCOLOR = '#000000'; // Change this hex value to set the background color. Remember to keep the quotes!
+const BGCOLOR = '#545454'; // Change this hex value to set the background color. Remember to keep the quotes!
 const ALT = 'Practical Cat Summoning'; // Change this to a plaintext copy or description of your content to make it visible to screen-readers
 const SMOOTH = true; // Set to false if you want crispy pixels. Leave true if you like the blur.
 
