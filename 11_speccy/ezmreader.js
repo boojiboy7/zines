@@ -16,7 +16,7 @@
 */
 
 //---- USER OPTIONS ----//
-const TEMPLATE = 1; // Change this value to set the template
+const TEMPLATE = 4; // Change this value to set the template
 /*  
     Available templates:
     
@@ -42,8 +42,8 @@ const TEMPLATE = 1; // Change this value to set the template
     8: 64 pages
         Micro
 */
-const BGCOLOR = '#f5f5f5'; // Change this hex value to set the background color. Remember to keep the quotes!
-const ALT = 'Reader for Electric Zine Maker'; // Change this to a plaintext copy or description of your content to make it visible to screen-readers
+const BGCOLOR = '#81f777'; // Change this hex value to set the background color. Remember to keep the quotes!
+const ALT = 'Eleven ZX Spectrum Games of Interest'; // Change this to a plaintext copy or description of your content to make it visible to screen-readers
 const SMOOTH = true; // Set to false if you want crispy pixels. Leave true if you like the blur.
 
 //---- END USER OPTIONS ----//
